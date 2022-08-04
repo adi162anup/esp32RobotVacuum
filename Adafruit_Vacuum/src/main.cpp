@@ -16,8 +16,8 @@
 #include "NewPing.h"
 
 
-const char* ssid = "lalmol";
-const char* password = "pattikuttan420";
+const char* ssid = "xyz"; // Wifi name
+const char* password = "123"; // Wifi password
 
 
 // Custom UUIDs for Robot Control Service
