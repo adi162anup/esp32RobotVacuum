@@ -17,7 +17,7 @@ Development environment specifics:
 Developed on Arduino 1.6.4
 Developed with ROB-9457
 
-Modified by Anupkumar Maliyackel (anupkma@gmail.com)- 22nd May 2022 for ESP32
+Modified by Adithya Anup (adithyaanup2002@gmail.com)- 22nd May 2022 for ESP32
 This is for Old TB6612 boards without STBY pin
 
 ******************************************************************************/
