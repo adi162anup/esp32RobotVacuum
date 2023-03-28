@@ -20,5 +20,3 @@ The source code for this project is completely written in C++ using the Platform
 
 ----
 Mobile application developed with the help of MIT App Inventor
-
-It is what it is
